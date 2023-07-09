@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tenzies-game-reactjs-tailwind-css/static/css/main.de7f8228.css",
+    "main.js": "/tenzies-game-reactjs-tailwind-css/static/js/main.3ae7230b.js",
+    "static/js/787.913081ee.chunk.js": "/tenzies-game-reactjs-tailwind-css/static/js/787.913081ee.chunk.js",
+    "index.html": "/tenzies-game-reactjs-tailwind-css/index.html",
+    "main.de7f8228.css.map": "/tenzies-game-reactjs-tailwind-css/static/css/main.de7f8228.css.map",
+    "main.3ae7230b.js.map": "/tenzies-game-reactjs-tailwind-css/static/js/main.3ae7230b.js.map",
+    "787.913081ee.chunk.js.map": "/tenzies-game-reactjs-tailwind-css/static/js/787.913081ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de7f8228.css",
+    "static/js/main.3ae7230b.js"
+  ]
+}
